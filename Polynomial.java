@@ -1,5 +1,3 @@
-
-
 public class Polynomial {
 	//fields
 	double [] coefficients;
